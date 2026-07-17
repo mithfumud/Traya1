@@ -1,0 +1,3 @@
+experiment_name,owner,status,start_date,end_date,component,primary_metric,baseline,mde,confidence,power
+Success Stories,Growth,Running,2026-07-01,2026-07-08,Success Stories Section,Conversion Rate,10,2,95,80
+Hair Coach,Growth,Running,2026-07-03,2026-07-10,Hair Coach Card,Conversion Rate,10,1.5,95,80
